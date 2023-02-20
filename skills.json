@@ -1,0 +1,28 @@
+{
+    "lesson_1": {
+        "title": "Base theory",
+        "description": "Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC"       
+
+    },
+    "lesson_2":  {
+        "title": "Клиент-серверная архитектура",
+        "description": ""       
+
+    },
+    "lesson_3":  {
+        "title": "HTTP Методы запросов на сервер",
+        "description": ""      
+        
+    },
+    "lesson_4":  {
+        "title": "Коды ответов HTTP сервера",
+        "description": ""      
+        
+    },
+    "lesson_5":  {
+        "title": "Структуры HTTP запросов и ответов",
+        "description": ""      
+        
+    }
+
+}
