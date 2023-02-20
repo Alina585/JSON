@@ -1,1 +1,16 @@
-
+{
+    "title" : "При клике на кнопку Зарегистрироваться на сайте 'school russia' выходит сообщение об ошибке",
+    "steps" : {
+        "step1": "Зайти на сайт 'school russia'",
+        "step2": "В правом верхнем углу кликнуть кнопку 'зарегистрироваться'",
+        
+    },
+    "author" : "Vasileva Alina",
+    "environment" : "Windows 10 21H2",
+    "severity" : "middle",
+    "priority" : "high",
+    "status" : "created",
+    "actual result" : "При клике на кнопку Зарегистрироваться возникает сообщение об ошибке '404 Not Found'",
+    "expected Result" : "При клике на кнопку Зарегистрироваться переход на страницу регистрации",
+    "Additional materials" : ""
+}
